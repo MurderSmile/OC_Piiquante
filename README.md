@@ -3,6 +3,7 @@
 ## Résumé du répertoire: Réseau d'avis en ligne
 
 ## Langages utilisés:
+  * Angular
   * TypeScript 
   * SCSS
   * JavaScript
