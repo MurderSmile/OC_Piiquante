@@ -2,7 +2,7 @@
 
 ## Résumé du répertoire: Réseau d'avis en ligne
 __Piiquante__ une marque de condiments à base de piment, veut développer une application web de critique des sauces piquantes appelée « Hot Takes » .  
-__La partie frontend a déjà été conçu__.  
+__La partie frontend a déjà été conçue__.  
 L'objectif est de créer la partie backend en javascript et de la relier à un serveur (MongoDB pour ce projet).
 
 ## Langages utilisés:
